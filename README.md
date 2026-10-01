@@ -62,7 +62,7 @@ A machine learning project exploring stock-price prediction using historical mar
 
 | Category             | Technologies                                |
 | -------------------- | ------------------------------------------- |
-| **Languages**        | Python · Java · C/C++                       |
+| **Languages**        | Python                       |
 | **AI / ML**          | Scikit-learn · Dlib · Resemblyzer · Librosa |
 | **Data**             | NumPy · Pandas                              |
 | **Computer Vision**  | Face Recognition · Facial Embeddings        |
