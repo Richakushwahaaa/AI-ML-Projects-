@@ -100,7 +100,5 @@ Currently strengthening my skills in:
 **AI/ML Engineering · Python · Data Structures & Algorithms · Software Development · Problem Solving**
 
 ---
-Building practical AI/ML solutions and continuously improving through projects, problem-solving, and hands-on development.
-
 
 > Building practical AI/ML solutions and continuously improving through projects, problem-solving, and hands-on development.
